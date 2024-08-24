@@ -1,0 +1,13 @@
+{
+	"name": "GD url replace",
+	"description": "Ссылка на стенд локально",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"icons": {"128": "icon_128.png"},
+	"action": {
+		"default_icon": "icon.png",
+		"default_popup": "index.html"
+	},
+	"permissions": ["scripting", "activeTab", "tabGroups"],
+	"background":{}
+}
